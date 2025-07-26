@@ -12,9 +12,9 @@ Em seguida, informe o número n (inteiro ≥ 0) para calcular F(n) da sequência
 ---
 # Exemplo de execução
 
-Digite 1 para calcular com a função recursiva 
-Digite 2 para calcular com a função linear 
-1
-Digite um numero: 10
-Fibonacci(10) = 55
+-Digite 1 para calcular com a função recursiva 
+-Digite 2 para calcular com a função linear 
+-1
+-Digite um numero: 10
+-Fibonacci(10) = 55
 ---
