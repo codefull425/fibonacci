@@ -2,13 +2,13 @@
 
 # A aplicação solicitará:
 
-Escolher o método de cálculo:
+- Escolher o método de cálculo:
 
-Digite 1 para método recursivo
+- Digite 1 para método recursivo
 
-Digite 2 para método linear
+- Digite 2 para método linear
 
-Em seguida, informe o número n (inteiro ≥ 0) para calcular F(n) da sequência de Fibonacci.
+- Em seguida, informe o número n (inteiro ≥ 0) para calcular F(n) da sequência de Fibonacci.
 ---
 # Exemplo de execução
 
